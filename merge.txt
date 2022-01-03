@@ -1,1 +1,1 @@
-merge will conflict in main branch
+merge will conflicted in branch
